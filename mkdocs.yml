@@ -1,0 +1,27 @@
+site_name: CompMath @ GSSI
+nav:
+  - Home: index.md
+  - People: people.md
+  # - Research: research.md
+  - Seminar: seminar.md
+  # - Home: 
+  #   - index.md
+  # - People: 
+  #   - people.md
+  # - Research: 
+  #   - research.md
+  # - Seminar: 
+  #   - seminar.md
+theme:
+  # name: material
+  name: null
+  custom_dir: 'cinder'
+  palette:
+    primary: black
+  font:
+    text: Open Sans
+  features:
+    - tabs
+    - navigation.expand
+extra_css:
+  - css/extra.css
